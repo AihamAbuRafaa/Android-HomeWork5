@@ -18,11 +18,11 @@ public class Note implements Serializable
     public Note()
     { }
 
-    public Note(String nID, String t, String c, String s, Date d, String iurl, String pe)
+    public Note(String nID, String t, String dc, String s, Date d, String iurl, String pe)
     {
         this.noteID = nID;
         this.title = t;
-        this.content = c;
+        this.content = dc;
         this.status = s;
         this.on_date = d;
         this.imageURL = iurl;
