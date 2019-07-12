@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778867125368",
+    "firebase_url": "https://android-notes-77aa8.firebaseio.com",
+    "project_id": "android-notes-77aa8",
+    "storage_bucket": "android-notes-77aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778867125368:android:bff62f5fd61fbf4e",
+        "android_client_info": {
+          "package_name": "com.example.majdh.homework4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778867125368-n865ti5cpk8eqnp6q846q5fnjq8l8ig9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.majdh.homework4",
+            "certificate_hash": "ca00303fd0f0c91c006bc50f75fc08e3f7f4a02a"
+          }
+        },
+        {
+          "client_id": "778867125368-m240vqsjs37svf9cgo7306c8v3osipav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFULMyVh7fmUQ7NbiqVqUBkNusXKP0b2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778867125368-m240vqsjs37svf9cgo7306c8v3osipav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
