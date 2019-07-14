@@ -73,5 +73,6 @@ public class MainActivity extends AppCompatActivity
     {
         Intent donate = new Intent(this, DonateActivity.class);
         startActivity(donate);
+		
     }
 }
