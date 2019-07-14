@@ -29,6 +29,7 @@ public class Note implements Serializable
         this.poster_email = pe;
     }
 
+
     public String getContent()
     {
         return content;
